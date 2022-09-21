@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     marginStart: 20,
   },
-  ITCLabel: {color: 'black', fontSize: 18, paddingHorizontal: 5},
+  ITCLabel: {color: 'black', fontSize: 13, paddingHorizontal: 5},
   ITCMark: {color: 'green', fontSize: 18},
   RSIBTO: {
     borderWidth: 0.5,
