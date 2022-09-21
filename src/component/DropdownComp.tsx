@@ -303,7 +303,7 @@ export default function DropdownComp({
         </TouchableOpacity>
       )}
 
-      {!showMultipleAsBadge ? <RenderBadgeBelow /> : null}
+      {!showMultipleAsBadge ? null : null}
 
       {!searchable || !open || mode == 'MODAL' ? null : (
         <SearchBar data={data} setfilteredData={setfilteredData} />
