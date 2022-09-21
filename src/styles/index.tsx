@@ -62,7 +62,7 @@ export const styles = StyleSheet.create({
     paddingStart: 10,
     paddingVertical: 5,
   },
-  PLACEHOLDER: {fontSize: 20, color: 'white'},
+  PLACEHOLDER: {fontSize: 14, color: '#000'},
   DDPressable: {width: 60, alignItems: 'center', justifyContent: 'center'},
   DDDArrow: {fontSize: 10, color: 'white', fontWeight: 'bold'},
   DDDPlus: {fontSize: 30, color: 'white'},
